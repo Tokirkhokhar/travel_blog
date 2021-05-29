@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: flex;
+    float: left;
+    padding-left: 100px;
+    align-items: center;
+}
+
+.logo img {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.logo h1 {
+    font-size: 25px;
+}
+
+
+/* The navbar */
+
+.topnav {
+    overflow: hidden;
+    background: transparent;
+    float: right;
+}
+
+
+/* Navbar links */
+
+.topnav a {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    padding: 14px 33px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.topnav a:hover {
+    color: rgb(255, 196, 0);
+}

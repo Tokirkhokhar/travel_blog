@@ -1,0 +1,174 @@
+/* Position the navbar container inside the image */
+
+.container {
+    position: absolute;
+    display: flex;
+    /* margin-top: 20px; */
+    height: 85px;
+    width: 100%;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+/* 
+.image {
+    position: sticky;
+} */
+
+.slider img {
+    /* display: flex; */
+    /* position: sticky; */
+    width: 100%;
+    height: 600px;
+}
+
+.content {
+    /* width: 700px; */
+    margin-top: -209px;
+    margin-left: -12px;
+    text-align: center;
+    color: ivory;
+}
+
+.content h1 {
+    font-size: 45px;
+    color: ivory;
+}
+
+.content p {
+    padding-top: 20px;
+    font-size: 20px;
+    color: ivory;
+}
+
+
+/* .container2 img {
+    width: 100%;
+    height: 500px;
+    position: sticky;
+} */
+
+.container2 {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    /* margin: auto; */
+    margin-top: 87px;
+    text-align: center;
+    justify-content: center;
+}
+
+.populartours {
+    width: 86%;
+    color: rgb(95, 90, 90);
+}
+
+.row {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.row p {
+    font-size: 24px;
+}
+
+.row h2 {
+    font-size: 27px;
+}
+
+.tours {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tours img {
+    width: 262px;
+}
+
+.tours p {
+    width: 250px;
+    font-size: 20px;
+}
+
+.tours .ele {
+    padding-left: 20px;
+}
+
+.lekhan {
+    margin-top: -5px;
+    /* width: 100px; */
+    height: auto;
+    padding-left: 10px;
+    text-align: left;
+    color: rgb(255, 253, 253);
+    background: rgb(255, 187, 0);
+}
+
+.lekhan h2 {
+    padding: 2px;
+}
+
+.lekhan img {
+    width: 25px;
+    height: 25px;
+}
+
+.tem {
+    display: flex;
+    /* margin-left: 10px; */
+    /* padding: 10px; */
+}
+
+.tem p {
+    width: auto;
+}
+
+.rating {
+    width: 260px;
+    margin-left: -10px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    color: rgb(255, 187, 0);
+    background: rgb(255, 253, 253);
+    border: 1px solid rgb(255, 187, 0);
+    overflow: hidden;
+}
+
+.rating img {
+    width: 245px;
+    height: 192px;
+}
+
+.alag img {
+    margin-top: 2px;
+    width: 245px;
+    height: 182px;
+}
+
+.container3 .image3 {
+    width: 100%;
+    height: 550px;
+    margin-top: 25px;
+}
+
+.container3 .lekhan {
+    margin-top: -480px;
+    margin-left: -12px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background: white;
+    font-size: 36px;
+}
+
+.container3 .lekhan p {
+    color: rgb(66, 65, 65);
+}
+
+#coresol {
+    margin-top: 100px;
+    margin-left: 85px;
+    width: 86%;
+}
